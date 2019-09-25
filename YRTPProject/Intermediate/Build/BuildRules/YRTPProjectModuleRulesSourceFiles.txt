@@ -1,0 +1,3 @@
+D:\Session Automne 2019\Moteur de Jeu III\Exercices Unreal\YRTPProject\Source\YRTPProject\YRTPProject.Build.cs
+D:\Session Automne 2019\Moteur de Jeu III\Exercices Unreal\YRTPProject\Source\YRTPProject.Target.cs
+D:\Session Automne 2019\Moteur de Jeu III\Exercices Unreal\YRTPProject\Source\YRTPProjectEditor.Target.cs

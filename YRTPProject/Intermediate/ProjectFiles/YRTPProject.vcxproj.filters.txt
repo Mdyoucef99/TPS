@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\YRTPProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0456361D-34F5-4CC3-A39B-A716AAAC225E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\YRTPProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\YRTPProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{49F5315E-E27A-49B2-A595-100020E28730}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\YRTPProject">
+      <UniqueIdentifier>{2A2391DF-43C1-486E-A422-934B81D1D0DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\YRTPProject\YRTPProject.Build.cs">
+      <Filter>Source\YRTPProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\YRTPProject\YRTPProject.cpp">
+      <Filter>Source\YRTPProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\YRTPProject\YRTPProject.h">
+      <Filter>Source\YRTPProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\YRTPProject\YRTPProjectCharacter.cpp">
+      <Filter>Source\YRTPProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\YRTPProject\YRTPProjectCharacter.h">
+      <Filter>Source\YRTPProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\YRTPProject\YRTPProjectGameMode.cpp">
+      <Filter>Source\YRTPProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\YRTPProject\YRTPProjectGameMode.h">
+      <Filter>Source\YRTPProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
