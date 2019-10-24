@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Development\YRTPProject\Definitions.YRTPProject.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Asus\Desktop\TPS\YRTPProject\Source\YRTPProject/YRTPProjectCharacter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Inc\YRTPProject\YRTPProjectCharacter.generated.h

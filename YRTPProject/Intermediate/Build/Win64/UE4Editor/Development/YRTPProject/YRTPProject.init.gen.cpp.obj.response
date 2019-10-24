@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I "D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Inc\YRTPProject"
-/I "D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Source"
-/I "D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Source\YRTPProject"
+/I C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Inc\YRTPProject
+/I C:\Users\Asus\Desktop\TPS\YRTPProject\Source
+/I C:\Users\Asus\Desktop\TPS\YRTPProject\Source\YRTPProject
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -432,18 +432,17 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I Runtime\AugmentedReality
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Intermediate\Build\Win64\YRTPProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Intermediate\Build\Win64\YRTPProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Intermediate\Build\Win64\YRTPProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Inc\YRTPProject\YRTPProject.init.gen.cpp"
-/FI"D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Development\YRTPProject\Definitions.YRTPProject.h"
-/Fo"D:\Session Automne 2019\Moteur de Jeu III\Projet\YRProjet\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Development\YRTPProject\YRTPProject.init.gen.cpp.obj"
+/FI"C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\YRTPProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\YRTPProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\YRTPProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Inc\YRTPProject\YRTPProject.init.gen.cpp"
+/FI"C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Development\YRTPProject\Definitions.YRTPProject.h"
+/Fo"C:\Users\Asus\Desktop\TPS\YRTPProject\Intermediate\Build\Win64\UE4Editor\Development\YRTPProject\YRTPProject.init.gen.cpp.obj"
 /TP
 /GR-
 /W4
